@@ -1,0 +1,4 @@
+*agamP4  asm/agamP4_chr.fa
+araBF2  asm/araBF2.fa
+araBF3  asm/araBF3.fa
+araDS1  asm/araDS1_contigs.fa
