@@ -1,0 +1,4 @@
+*sacCer3  ref/sacCer3.fasta
+S288c  consensi/S288c.fasta
+Y55  consensi/Y55.fasta
+SK1  consensi/SK1.fasta
