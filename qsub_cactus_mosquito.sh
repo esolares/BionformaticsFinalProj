@@ -17,5 +17,5 @@ source /data/apps/progressiveCactus/environment
 #export PATH=${PATH}:/data/users/solarese/bin/hdf5-1.8.11/bin
 #export h5prefix=-prefix=/data/users/solarese/bin/hdf5-1.8.11
 
-runProgressiveCactus.sh --maxThreads 64 mosquito.txt PCwork PCwork/mosquito.hal
-hal2assemblyHub.py PCwork/mosquito.hal AssHub --maxThreads 64 --lod
+runProgressiveCactus.sh --maxThreads 64 mosquito.txt MosquitoPCwork MosquitoPCwork/mosquito.hal
+hal2assemblyHub.py MosquitoPCwork/mosquito.hal MosquitoHub --maxThreads 64 --lod
